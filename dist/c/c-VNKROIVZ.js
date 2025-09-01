@@ -1,4 +1,4 @@
-import{a as d,b as e}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-GDKDTAPO.js";e();var a={"template-viewer-widget-background":d`
+import{a as d,b as e}from"dist/c/c-GDKDTAPO.js";e();var a={"template-viewer-widget-background":d`
 	<div class="rmwidget widget-background" style="background-color: #<%=data.color%>">
 
         <% if (data.selectedType == 'picture') { %>

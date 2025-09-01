@@ -1,4 +1,4 @@
-import{a as f,b as S}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-GDKDTAPO.js";import{U as z,X as V}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-J2LR27TH.js";import{q as g,r as G}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-WJU64RT4.js";import{a as Y}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-GHXNGV7G.js";import{a as B}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-4MHJC562.js";import{b as E}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-O6VQZMRI.js";import{a as m,d as v}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-FP2E5KKM.js";var M,N=m(()=>{"use strict";S();M={"template-common-button-widget":f`
+import{a as f,b as S}from"dist/c/c-GDKDTAPO.js";import{U as z,X as V}from"dist/c/c-J2LR27TH.js";import{q as g,r as G}from"dist/c/c-WJU64RT4.js";import{a as Y}from"dist/c/c-GHXNGV7G.js";import{a as B}from"dist/c/c-4MHJC562.js";import{b as E}from"dist/c/c-O6VQZMRI.js";import{a as m,d as v}from"dist/c/c-FP2E5KKM.js";var M,N=m(()=>{"use strict";S();M={"template-common-button-widget":f`
 
     <div class="common-button" data-id="<%-data._id%>">
 

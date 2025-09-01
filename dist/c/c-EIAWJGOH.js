@@ -1,1 +1,1 @@
-import"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-FP2E5KKM.js";var t=({widget:e})=>{e&&e.isDragging&&(e.isDragging=!1,e.mag.isWidgetDragging=!1,document.body.style.pointerEvents==="none"&&(document.body.style.pointerEvents=""))},o=t;export{o as default};
+import"dist/c/c-FP2E5KKM.js";var t=({widget:e})=>{e&&e.isDragging&&(e.isDragging=!1,e.mag.isWidgetDragging=!1,document.body.style.pointerEvents==="none"&&(document.body.style.pointerEvents=""))},o=t;export{o as default};

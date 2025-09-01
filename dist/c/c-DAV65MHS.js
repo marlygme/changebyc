@@ -1,4 +1,4 @@
-import{a as s,b as I}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-GDKDTAPO.js";import{q as g,r as P}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-WJU64RT4.js";import{a as W}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-GHXNGV7G.js";import{a as k}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-4MHJC562.js";import{b as O}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-O6VQZMRI.js";import{a as n,d as b}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-FP2E5KKM.js";var h,m=n(()=>{"use strict";I();h={"template-common-hotspot-widget":s`
+import{a as s,b as I}from"dist/c/c-GDKDTAPO.js";import{q as g,r as P}from"dist/c/c-WJU64RT4.js";import{a as W}from"dist/c/c-GHXNGV7G.js";import{a as k}from"dist/c/c-4MHJC562.js";import{b as O}from"dist/c/c-O6VQZMRI.js";import{a as n,d as b}from"dist/c/c-FP2E5KKM.js";var h,m=n(()=>{"use strict";I();h={"template-common-hotspot-widget":s`
 
     <div class="common-hotspot">
       <div class="pin"></div>
