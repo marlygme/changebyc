@@ -1,0 +1,1 @@
+import{k as i}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-JBU3E5FJ.js";import{b as n}from"https://st-p.rmcdn1.net/98ae4f88/dist/c/c-FP2E5KKM.js";var a=n(t=>{"use strict";var e=i();t.createRoot=e.createRoot,t.hydrateRoot=e.hydrateRoot;var s});export{a};
